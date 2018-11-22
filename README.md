@@ -1,7 +1,6 @@
 # Trabalho-2
 Trabalho 2 de técnicas de programação. 
-Aluno: Paulo Victor Guedes Frota
-
+Aluno: Paulo Victor Guedes Frota 
 Requisitos mínimos:
 Python 3.6 instalado
 
